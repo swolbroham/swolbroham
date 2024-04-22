@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         15 mins         ████████████░░░░░░░░░░░░░   47.40 %
-Other        9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-JavaScript   7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
