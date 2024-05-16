@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   25 mins         ██████████████████████▓░░   90.08 %
+JSON    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+INI     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+XML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
