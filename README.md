@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
-Markdown   13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
-Python     11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-CSV        9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
-Text       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
