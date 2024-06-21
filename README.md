@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other          18 hrs 43 mins  ███████████████████████▓░   95.13 %
-Python         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Text           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Image (svg)    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other   20 hrs 15 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
