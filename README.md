@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         28 hrs 7 mins   ███████████████████████░░   91.84 %
-Python        2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-JSON          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Image (svg)   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Git Config    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other        30 hrs 49 mins  ████████████████████████▒   97.62 %
+Python       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
