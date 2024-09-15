@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        40 hrs          ████████████████████████▓   98.15 %
-Python       43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other    30 hrs 40 mins  █████████████████████████   99.83 %
+Python   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
