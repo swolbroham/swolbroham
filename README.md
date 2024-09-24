@@ -1,5 +1,6 @@
 # Who Am I?
-Self-Taught Professional Data Analyst 
+Self-Taught Professional Data Analyst
+
   1. Python / R
   2. SQL / Pandas
   3. Flask/Django
@@ -8,20 +9,23 @@ Self-Taught Professional Data Analyst
   6. Hadoop
   7. Apache Spark / Hive
 
-### Experience:
----
+
+## Experience:
+*---*
 Bank of the West
   - Business Intelligence Analyst
               <i>2017 - 2021</i>
----
+
 Year Up Silicon Valley
   - Data Analyst Track
               <i>2017</i>
----
+
+
 
 ## What's On My Plate 
----
+*---*
  - SpotifyAnalysis - Analysis on 'My Liked Songs'
+
 <!--
 **swolbroham/swolbroham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
