@@ -21,7 +21,7 @@ Year Up Silicon Valley
 
 ## What's On My Plate 
 ---
- - SpotifyAnalysis - Analysis
+ - SpotifyAnalysis - Analysis on 'My Liked Songs'
 <!--
 **swolbroham/swolbroham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
