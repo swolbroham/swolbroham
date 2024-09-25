@@ -9,9 +9,18 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme TimeLog
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
+          CODE_LANG: python 
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: TXT YAML TOML 
