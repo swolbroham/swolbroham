@@ -32,12 +32,12 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Other        40 hrs 31 mins  ███████████████████████▓░   94.16 %
-Python       2 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Roff         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```python
+From: 05 March 2024 - To: 27 September 2024
+
+Total Time: 228 hrs 41 mins
+
+Other          842 hrs 55 mins ███████████████████▓░░░░░   78.66 %
 ```
 
 <!--END_SECTION:waka-->
