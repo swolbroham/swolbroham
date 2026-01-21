@@ -19,25 +19,19 @@
 ### Year Up Silicon Valley
 - __Data Analyst Track__ <p align='right'><i>2017</i></p>
 
-
+## Education
+- __Full Sail University (Online)__ <p align='right'><i>2025-Present</i></p>
 
 ## What's On My Plate 
-
- - SpotifyAnalysis - Analysis on 'My Liked Songs'
+ - Project Portfolio III
+ - School FT (Full Sail University) 
+ - BCD Pork & Kimchi Sudubu-Jjigae
 
 ## What am I Learning
- - Sketching / Painting
- - Python Design Patterns
+ - C++
+ - React + Vite / React + Nodejs
 
 
 <!--START_SECTION:waka-->
-
-```python
-From: 05 March 2024 - To: 19 January 2026
-
-Total Time: 392 hrs 44 mins
-
-Other                              1,571 hrs 36 mins████████████████████░░░░░   80.01 %
-```
 
 <!--END_SECTION:waka-->
