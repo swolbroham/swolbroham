@@ -4,12 +4,12 @@
 
   > 1. Python / R
   > 2. SQL / Pandas
-  > 3. Flask/Django
-  > 4. React
+  > 3. Flask / Django
+  > 4. React + Vite
   > 5. HTML / JavaScript / CSS
   > 6. Hadoop
   > 7. Apache Spark / Hive
-
+  > 8. C++
 
 ## Experience:
 
