@@ -35,11 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 March 2024 - To: 06 June 2026
+From: 05 March 2024 - To: 07 June 2026
 
 Total Time: 476 hrs 16 mins
 
-Other                              1,815 hrs 49 mins     ███████████████████▓░░░░░   79.22 %
+Other                              1,816 hrs 40 mins     ███████████████████▓░░░░░   79.23 %
 ```
 
 <!--END_SECTION:waka-->
